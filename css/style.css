@@ -1020,7 +1020,9 @@ body {
     padding: 6rem; }
     @media (max-width: 75em) {
       .book__form {
-        width: 65%; } }
+        width: 65%;
+        padding: 3rem; } }
     @media (max-width: 56.25em) {
       .book__form {
-        width: 100%; } }
+        width: 100%;
+        padding: 3rem; } }
